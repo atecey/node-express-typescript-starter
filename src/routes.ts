@@ -6,7 +6,7 @@ import { getUsers, getUsersById, addUser } from './routes/users';
 export const AppRoutes = [
   {
     path: '/users',
-    method: "get",
+    method: 'get',
     action: getUsers
   },
   {

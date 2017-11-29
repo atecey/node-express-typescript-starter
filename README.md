@@ -4,7 +4,7 @@ customisable mock server.
  
 ## Install Nodejs on your machine
 
-Install [Nodejs](https://www.nodejs.com).
+Install [Nodejs](https://nodejs.org/en/download/).
 
 ## Install dependencies
 

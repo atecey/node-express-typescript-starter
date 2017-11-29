@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import * as express from 'express';
-import * as bodyParser from "body-parser";
+import * as bodyParser from 'body-parser';
 import { AppRoutes } from './routes';
 
 const app = express();
@@ -18,6 +18,6 @@ AppRoutes.forEach(route => {
 // run app
 app.listen(3000);
 
-console.log("Express application is up and running on port 3000");
+console.log(`Express application is up and running on port 3000`);
 
 module.exports = app;
