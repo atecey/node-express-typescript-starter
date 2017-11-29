@@ -14,6 +14,10 @@ Install [Nodejs](https://nodejs.org/en/download/).
 
     npm start
     
+## Run tslint
+
+    npm run tslint
+    
 ## Build dist for production
 
     npm run build
