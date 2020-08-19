@@ -31,18 +31,18 @@
     "starter project"
   ],
   "dependencies": {
-    "@types/body-parser": "^1.16.8",
-    "@types/express": "^4.0.39",
-    "@types/node": "^8.0.53",
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "@types/body-parser": "^1.19.0",
+    "@types/express": "^4.17.7",
+    "@types/node": "^14.6.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
     "reflect-metadata": "^0.1.10"
   },
   "devDependencies": {
-    "concurrently": "^3.5.1",
-    "nodemon": "^1.12.1",
-    "shelljs": "^0.7.8",
-    "tslint": "^5.8.0",
-    "typescript": "^2.6.2"
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4",
+    "shelljs": "^0.8.4",
+    "tslint": "^6.1.3",
+    "typescript": "^3.9.7"
   }
 }
